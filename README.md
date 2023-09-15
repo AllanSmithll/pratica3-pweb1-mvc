@@ -1,2 +1,2 @@
 # pratica3-pweb1-typescript
-Prática 3 de TypeScript de Programação Web 1. Sistema bancário básico.
+Prática 1 sobre TypeScript de Programação Web 1. Sistema bancário básico.
